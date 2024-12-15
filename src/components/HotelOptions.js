@@ -139,7 +139,7 @@ const HotelOptions = ({ destination, onSelectHotel }) => {
           className="w-full h-64 object-cover"
         />
         <div className="absolute top-4 right-4 bg-white/80 px-3 py-1 rounded-full">
-          {hotel.rating} ★
+          {hotel.rating} 
         </div>
       </div>
       
